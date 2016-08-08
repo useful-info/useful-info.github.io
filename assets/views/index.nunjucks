@@ -12,15 +12,7 @@
 <body>
   <div class="l-wrapper">
     <div class="l-header">
-      <header class="header">
-  <div class="head">
-    <img class="head__pic" alt="intresting articles" src="./public/images/main.png" />
-  </div>
-  <div class="header__ad">
-
-  </div>
-</header>
-
+      {% include './_includes/header.nunjucks' %}
     </div><!--/l-header-->
 
     <div class="l-container">
@@ -50,34 +42,14 @@
       </div><!--/l-content-->
 
       <div class="l-sidebar">
-        <section class="sidebar">
-  <div class="sidebar__ad">
-
-  </div>
-
-  <div class="sidebar__ad">
-
-  </div>
-
-  <div class="sidebar__ad">
-    
-  </div>
-</section>
-
+        {% include './_includes/sidebar.nunjucks' %}
       </div><!--/l-sidebar-->
       <div class="clearfix"></div>
     </div><!--/l-container-->
   </div><!--/l-wrapper-->
 
   <div class="l-footer">
-    <footer class="footer">
-  <div class="footer__ad">
-    
-  </div>
-
-  <p class="footer__text">&#169; useful-info.space 2016</p>
-</footer>
-
+    {% include './_includes/footer.nunjucks' %}
   </div><!--/l-footer-->
 </body>
 </html>

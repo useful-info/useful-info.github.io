@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: index.html
+Sitemap: http://useful-info.space/sitemap.xml

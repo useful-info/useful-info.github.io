@@ -1,1 +1,1 @@
-# useful-info.github.io
+# useful-info.space

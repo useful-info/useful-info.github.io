@@ -1,0 +1,8 @@
+<header class="header">
+  <div class="head">
+    <img class="head__pic" alt="intresting articles" src="./public/images/main.png" />
+  </div>
+  <div class="header__ad">
+
+  </div>
+</header>
