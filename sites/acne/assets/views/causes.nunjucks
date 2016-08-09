@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>What Causes Acne</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="description" content="What Causes Acne" />
+  <meta name="keywords" content="causes acne" />
+  <link rel="stylesheet" href="./public/styles/app.css" type="text/css" />
+  <link rel="canonical" href="useful-info.space/sites/acne/" />
+</head>
+<body>
+  <div class="l-wrapper">
+    <div class="l-header">
+      {% include './_includes/header.nunjucks' %}
+    </div><!--/l-header-->
+
+    <div class="l-container">
+      <div class="l-content">
+        <div class="return">
+          <a class="return__link" href="index.html">Return to main page</a>
+        </div>
+        <section class="main">
+          <h1>Causes Acne</h1>
+          <p><strong>Acne is caused when tiny holes in the skin, known as hair follicles, become blocked.</strong></p>
+          <p>Sebaceous glands are tiny glands found near the surface of your skin. The glands are attached to hair follicles, which are small holes in your skin that an individual hair grows out of.</p>
+          <p>Sebaceous glands lubricate the hair and the skin to stop it drying out. They do this by producing an oily substance called sebum.</p>
+          <p>In acne, the glands begin to produce too much sebum. The excess sebum mixes with dead skin cells and both substances form a plug in the follicle.</p>
+          <p>If the plugged follicle is close to the surface of the skin, it bulges outwards, creating a whitehead. Alternatively, the plugged follicle can be open to the skin, creating a blackhead.</p>
+          <p>Normally harmless bacteria that live on the skin can then contaminate and infect the plugged follicles, causing papules, pustules, nodules or cysts.</p>
+          <h3>Testosterone</h3>
+          <p>Teenage acne is thought to be triggered by increased levels of a hormone called testosterone, which occurs during puberty. The hormone plays an important role in stimulating the growth and development of the penis and testicles in boys, and maintaining muscle and bone strength in girls.</p>
+          <p>The sebaceous glands are particularly sensitive to hormones. It's thought that increased levels of testosterone cause the glands to produce much more sebum than the skin needs.</p>
+        </section>
+        <div class="main__ad">
+          <div class="main__ad_desktop">
+            <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=13&l=ur1&category=beauty&banner=17TAWVQYE1E5W96A8W82&f=ifr&linkID=6c1c7fd37f9fbf1167874bdbaf5fb083&t=useful-info-20&tracking_id=useful-info-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          </div>
+          <div class="main__ad_mobile">
+            <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=21&l=ur1&category=beauty&banner=00AFNRTEE7XXVA2G6TG2&f=ifr&linkID=cfb93e91baa6872663586c3b4ee0040e&t=useful-info-20&tracking_id=useful-info-20" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          </div>
+        </div>
+        <section class="main">
+          <h3>Acne in families</h3>
+          <p>Acne can run in families. If your parents had acne, it's likely that you'll also develop it.</p>
+          <p>One study has found that if both your parents had acne, you're more likely to get more severe acne at an early age. It also found that if one or both of your parents had adult acne, you're more likely to get adult acne too.</p>
+          <h3>Acne in women</h3>
+          <p>More than 80% of cases of adult acne occur in women. It's thought that many cases of adult acne are caused by the changes in hormone levels that many women have at certain times.</p>
+          <p>These times include:</p>
+          periods – some women have a flare-up of acne just before their period
+          pregnancy – many women have symptoms of acne at this time, usually during the first three months of their pregnancy
+          polycystic ovary syndrome – a common condition that can cause acne, weight gain and the formation of small cysts inside the ovary
+          <h3>Other triggers</h3>
+          <p>Other possible triggers of an acne flare-up include:</p>
+          <ul>
+            <li>some cosmetic products – however, this is less common as most products are now tested, so they don't cause spots (non-comedogenic)</li>
+            <li>certain medications – such as steroid medications, lithium (used to treat depression and bipolar disorder) and some anti-epileptic drugs (used to treat epilepsy)</li>
+            <li>regularly wearing items that place pressure on an affected area of skin, such as a headband or backpack</li>
+            <li>smoking – which can contribute to acne in older people</li>
+          </ul>
+        </section>
+        <div class="return">
+          <a class="return__link" href="index.html">Return to main page</a>
+        </div>
+      </div><!--/l-content-->
+
+      <div class="l-sidebar">
+        {% include './_includes/sidebar.nunjucks' %}
+      </div><!--/l-sidebar-->
+      <div class="clearfix"></div>
+    </div><!--/l-container-->
+  </div><!--/l-wrapper-->
+
+  <div class="l-footer">
+    {% include './_includes/footer.nunjucks' %}
+  </div><!--/l-footer-->
+</body>
+</html>
