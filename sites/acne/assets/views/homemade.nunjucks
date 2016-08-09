@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Homemade Acne Treatments</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="description" content="Homemade Acne Treatments" />
+  <meta name="keywords" content="homemade acne treatments" />
+  <link rel="stylesheet" href="./public/styles/app.css" type="text/css" />
+  <link rel="canonical" href="useful-info.space/sites/acne/" />
+</head>
+<body>
+  <div class="l-wrapper">
+    <div class="l-header">
+      {% include './_includes/header.nunjucks' %}
+    </div><!--/l-header-->
+
+    <div class="l-container">
+      <div class="l-content">
+        <div class="return">
+          <a class="return__link" href="index.html">Return to main page</a>
+        </div>
+        <section class="main">
+          <h1>Homemade Acne Treatments</h1>
+          <p>Everyone’s skin is different, so keep in mind that effectively treating acne breakouts at home requires a multi-disciplinary approach to care and a healthy diet. The home remedies for acne below can be used in combination, but it’s important to avoid the biggest mistakes in treating acne:</p>
+          <ul>
+            <li>Picking blemishes</li>
+            <li>Over cleansing with harsh chemicals</li>
+            <li>Believing only topical care of the skin is necessary to fight acne</li>
+            <li>Not giving skin the chance to adapt to new care</li>
+            <li>Failing to stay properly hydrated</li>
+            <li>Failing to start treating acne from the inside, out</li>
+          </ul>
+          <p>When you find the right combination of home remedies for acne, continue with your personal program for the best results.</p>
+          <h3>1. Gentle Cleansing</h3>
+          <p>Getting rid of stubborn pimples, blackheads and whiteheads starts with thorough but gentle cleansing. Try my recipe for Homemade Honey Face Wash. Dampen skin with warm water, and massage into face and neck. Rinse well and pat dry. Do this each morning and evening and, if needed, after workouts. Refrain from cleansing more often, as this can irritate the skin and cause an overproduction of oil.</p>
+          <p>It features apple cider vinegar, honey, coconut oil, probiotics and essential oils (like tea tree oil). The honey soothes the skin, the coconut oil helps to fight bacteria and fungus, and the tea tree oil helps to invigorate the skin.</p>
+          <h3>2. Toning</h3>
+          <p>Toning is an important step in proper skin care. It helps to remove any residue after cleansing and helps to restore the skin’s natural pH levels.</p>
+          <p>Use pure apple cider vinegar (with the mother culture) as your evening and morning toner. With a cotton ball, smooth over skin paying particular attention to active breakouts and acne prone areas.</p>
+          <p>Apple cider vinegar is packed with potassium, magnesium, acetic acid and various enzymes that kill bacteria on the skin. Chronic acne can be the result of bacteria and fungi that continue to spread and grow on the surface of the skin.</p>
+          <h3>3. Healing Masks</h3>
+          <p>To hydrate and heal the skin, masks should be applied a couple of times per week. Yogurt, honey, cinnamon, essential oils and other ingredients help to hydrate skin and fight common causes of acne.</p>
+          <p>Yogurt and Honey Mask: Mix one tablespoon of raw honey with one tablespoon of yogurt. Apply to face, paying particular attention to hairline, jawline and other acne prone areas. Relax for 10 minutes and gently wipe off with a damp cloth.</p>
+          <p>Cinnamon and Honey Mask: Mix two tablespoons of raw honey, one teaspoon of coconut oil and 1/2 teaspoon of cinnamon. Smooth over face. Keep away from eyes, as the cinnamon can be an irritant. Relax for 5–10 minutes and gently remove with damp cloth. Honey and cinnamon used together helps to fight acne because of its anti-inflammatory, antioxidant and antibacterial properties.</p>
+          <p>Add a couple of drops of tea tree oil to either of the masks above during an active acne breakout. Tea tree oil is considered one of the best home remedies for acne.</p>
+          <h3>4. Exfoliate Regularly (but Gently)</h3>
+          <p>Clogged pores and dead skin contribute to acne. It’s important to exfoliate properly to remove the buildup. Commercially available scrubs are ridden with chemicals that can further irritate skin.</p>
+          <p>DIY scrubs to fight acne and keep skin fresh are easy to make and economical. First, you need something that is gritty. Sea salt, brown sugar and ground oatmeal are good choices. In addition, you need a base. Coconut oil, kefir and honey are all good choices.</p>
+          <p>These bases help to fight bacteria, fungi and Candida overgrowth on the skin while the textured ingredients help to unplug pores and remove dead skin.</p>
+          <p>Mix two tablespoons of the dry ingredient of choice with 1–2 tablespoons of the base of choice. Rub into skin in a circular motion. Start at the forehead and work your way down, paying particular attention to problem areas. Remove with a damp cloth, and rinse well.</p>
+          <h3>5. Spot Treat</h3>
+          <p>Acne responds well to melalecua, more commonly known as tea tree oil. It’s used the world over as an antiseptic and to treat wounds. Like coconut oil, honey and cultured milk products, it fights bacteria and fungi.</p>
+          <p>According to medical research, tea tree oil gels containing 5 percent tea tree oil may be as effective as medications containing 5 percent benzoyl peroxide. Researchers do indicate that tea tree oil may work more slowly for some individuals.</p>
+          <p>This home remedy for acne asks for you to mix 4–8 drops of tea tree oil and one teaspoon of coconut oil or jojoba oil. Dap lightly onto problem areas. Slight tingling is normal. Always use a carrier oil, as tea tree oil can be too harsh when applied directly to skin.</p>
+        </section>
+        <div class="main__ad">
+          <div class="main__ad_desktop">
+            <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=13&l=ur1&category=beauty&banner=17TAWVQYE1E5W96A8W82&f=ifr&linkID=6c1c7fd37f9fbf1167874bdbaf5fb083&t=useful-info-20&tracking_id=useful-info-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          </div>
+          <div class="main__ad_mobile">
+            <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=21&l=ur1&category=beauty&banner=00AFNRTEE7XXVA2G6TG2&f=ifr&linkID=cfb93e91baa6872663586c3b4ee0040e&t=useful-info-20&tracking_id=useful-info-20" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          </div>
+        </div>
+        <section class="main">
+          <h3>6. Fight Bacteria</h3>
+          <p>Holy basil and sweet basil essential oils have been found to fight acne caused by bacteria, according to a report published in the International Journal of Cosmetic Sciences.</p>
+          <p>In this study, sweet basil oil slightly outperformed holy basil oil in topical applications. Holy basil oil tea, or Tulsi tea, supports healthy blood sugar and hormone levels. As these two conditions are linked with acne, consuming herbal tea daily will balance hormones naturally, fighting acne from the inside out, making this one of the best cross-over home remedies for acne.</p>
+          <p>Additionally, the tea can be applied topically as a toner to acne-prone or problem areas. Either sweet basil or holy basis essential oils can be added to the masks, cleanser or exfoliating recipes mentioned above.</p>
+          <h3>7. Moisturize</h3>
+          <p>Contrary to popular belief, acne-prone skin still needs to be moisturized. Using topicals that focus on drying out the skin tricks the skin into producing more oil, thereby increasing the acne.</p>
+          <p>While it can be too heavy for some skin, coconut oil is an excellent moisturizer. A study published in Biomaterials found that the lauric acid found in coconut oil demonstrates the strongest bacterial activity against acne caused by bacteria.</p>
+          <p>Coconut oil is one of the most versatile and healthy oils on earth. There is an increasing demand for coconut oil beauty products because the lauric acid, antioxidants and medium-chain fatty acids hydrate and restore skin and hair.</p>
+          <p>As a daily moisturizer, warm ¼ teaspoon of coconut oil in the palms of your hands. Smooth over face and neck. Allow to soak into the skin for five minutes. Gently wipe off excess oil with a dry cloth. The amount that has been absorbed is all your skin needs. Any excess may cause a breakout.</p>
+          <p>For acne-prone skin and during breakouts, it’s important to protect against sun exposure. Ultraviolet rays stimulate pigment producing cells, increasing the risk of acne scarring.</p>
+          <p>Commercial sunscreens are packed with harmful chemicals that can irritate sensitive skin and acne-prone skin. Research shows that coconut oil has an SPF value of 8, as does olive oil. To use as sun protection, apply a moderate amount to exposed skin every couple of hours.</p>
+          <h3>8. Take a Probiotic Supplement</h3>
+          <p>Remember, fighting acne requires both external treatment and an internal treatment. Live probiotics support healthy digestion and immune system functioning, plus improves skin health by fighting acne.</p>
+          <p>According to a recent study published in Dermatology Online Journal, researchers indicate that probiotic food supplements are a promising and safe acne treatment. The study indicates that larger trials are needed, but the signs are promising.</p>
+          <h3>9. Take Guggul</h3>
+          <p>For individuals suffering from the cystic form of acne, a controlled clinical trial has found that Guggul supplements (also known as guggulsterone) outperformed 500 milligrams of tetracycline by a small margin.</p>
+          <p>In the study, 25 milligrams of guggulsterone taken twice daily for three months resulted in the reduction of acne, but more importantly, 50 percent fewer participants had acne relapses. Researchers noted that patients with oily skin responded remarkably better to guggul than others in the study.</p>
+          <h3>10. Eat Healthy</h3>
+          <p>As part of the protocol to treat acne from the inside out, it’s important eat foods that don’t cause blood sugar spikes that lead to the production of insulin. Focus on leafy green vegetables, berries and clean protein.</p>
+          <p>Increase consumption of wild fish, grass-fed meat and cage-free chickens. Healthy fats are essential to good skin health and treating acne breakouts at home, so include foods rich in omega-3s like wild-caught salmon.</p>
+          <p>Add zinc-rich foods such as kefir, yogurt, lamb, pumpkin seeds and chicken. According to a recent study published in BioMed Research International, there is a correlation between low zinc levels and the severity of acne.</p>
+          <p>This study focused on adolescents and young adults with acne vulgaris, the type of acne that is caused by inflammation and clogged pores.</p>
+          <p>Foods to avoid for acne-free skin include hydrogenated oils, gluten, wheat, sugar and conventional dairy. If you must have your dairy milk, consume raw milk, as researchers have found that conventional milk products can contribute to acne.</p>
+          <p>In addition to conventional dairy, it’s important to exclude known allergens or foods you have a sensitivity to — common food allergens include gluten, tree nuts, soy, peanuts and shellfish.</p>
+          <h3>Home Remedies for Acne Scars</h3>
+          <p>The vast majority of individuals that get acne will experience some degree of scarring. During a breakout, never pick or pop pimples, whiteheads or blackheads.</p>
+          <p>For 6 –12 months after an acne breakout, stay out of the sun as much as possible. When you are in the sun, use an all-natural sunscreen to help reduce the chances of acne scarring. Treating acne scars takes patience and perseverance.</p>
+          <p>The sooner you start treating a scar, the better possible results. If scars do develop, dot a drop of rosehip seed oil or carrot seed oil on the scars twice per day until you notice a difference in the scar. Coconut oil, lavender essential oil, honey and gentle exfoliation can also help, depending on skin tone and texture.</p>
+          <h3>Final Homemade Acne Treatments Tips for Acne-Free Skin</h3>
+          <p>After you have gotten rid of acne, it’s important to stick with a healthy diet, drink plenty of water, keep up with your new skin care routine and change your pillowcase every week.</p>
+        </section>
+        <div class="return">
+          <a class="return__link" href="index.html">Return to main page</a>
+        </div>
+      </div><!--/l-content-->
+
+      <div class="l-sidebar">
+        {% include './_includes/sidebar.nunjucks' %}
+      </div><!--/l-sidebar-->
+      <div class="clearfix"></div>
+    </div><!--/l-container-->
+  </div><!--/l-wrapper-->
+
+  <div class="l-footer">
+    {% include './_includes/footer.nunjucks' %}
+  </div><!--/l-footer-->
+</body>
+</html>
