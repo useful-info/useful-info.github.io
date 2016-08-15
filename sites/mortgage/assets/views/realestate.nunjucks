@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Real Estate Mortgage Loans</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="description" content="Real Estate Mortgage Loans. What? Where? When?" />
+  <meta name="keywords" content="real estate mortgage loans" />
+  <link rel="stylesheet" href="./public/styles/app.css" type="text/css" />
+  <link rel="canonical" href="useful-info.space/sites/acne/" />
+</head>
+<body>
+  <div class="l-wrapper">
+    <div class="l-header">
+      {% include './_includes/header.nunjucks' %}
+    </div><!--/l-header-->
+
+    <div class="l-container">
+      <div class="l-content">
+        <div class="return">
+          <a class="return__link" href="index.html">Return to main page</a>
+        </div>
+        <section class="main">
+          <h1>Real Estate Mortgage Loans</h1>
+          <p>Obtaining a home loan does not have to be a complex or difficult ordeal, as a matter of fact it is somewhat simple. Although you must set aside some time to comprehend the step by step process and provide your mortgage lender with all their required information - you can even have a credit score that's less-than-perfect and a down payment that is small and still get a loan.. The very first decision you must make in buying a home is choosing a lender and completing your application for the loan. This step must be completed prior to submitting an offer to purchase, at minimum of 3 days from completing your offer to purchase.. Bring this completed offer to purchase with you as you make your first visit to your lender.</p>
+          <p>Your lender's job is to understand your particular financial circumstances completely. you will review all information on the application at your meeting with the loan officer. A situation rarely arises that your loan officer ahs not encountered in the past. Do not hesitate to discuss any questions you have regarding your assets, income or credit. By providing complete information, you prevent delays or extra trips to deliver documents.</p>
+          <h3>Loan Application Checklist</h3>
+          <p>The amount of documentation and information required for a mortgage can seem over-whelming. you can facilitate the application process by collecting as much of the needed information as you can before your appointment. The checklist that follows is a general guide to assist you with the loan application. Some of the items listed may not apply to you and your lender will probably request some items that we have not mentioned, but this list will get you off to a good start.</p>
+          <h4>Property Information</h4>
+          <ul>
+            <li>The purchase agreement will include the legal description of the property and the price.</li>
+          </ul>
+          <h4>Personal Information</h4>
+          <ul>
+            <li>Social Security number and driver's license for each borrower.</li>
+            <li>Home addresses for the last two years.</li>
+            <li>Divorce decree and separation agreements, if applicable.</li>
+            <li>Trust agreement, if applicable.</li>
+          </ul>
+          <h4>Income</h4>
+          <ul>
+            <li>Most recent pay stubs.</li>
+            <li>Documentation on any supplemental income such as bonuses or commissions.</li>
+            <li>Names, addresses, and phone numbers of all employers for the last two years.</li>
+            <li>W-2's for the last two years.</li>
+            <li>If you are self-employed or earn income from commissioned sales, copies of last two years of tax returns with all schedules and year-to-date profit and loss for current year, signed by an Accountant.</li>
+            <li>Documentation of alimony or child support, if this income is considered for the loan.</li>
+          </ul>
+          <h4>Real Estate Owned</h4>
+          <ul>
+            <li>Names, addresses, and phone numbers of all mortgage lenders for the last seven years.</li>
+            <li>Copies of leases and two years of tax returns for any rental property.</li>
+            <li>Market value estimate</li>
+          </ul>
+          </h4>Liquid Assets</h4>
+          <ul>
+            <li>Complete names, addresses, phone numbers, and account numbers for all bank, credit union, 401K, and investment accounts</li>
+            <li>Copies of the last three months statements for all bank accounts</li>
+            <li>Copies of any notes receivable</li>
+            <li>Value of other assets such as auto, household goods, and collectibles</li>
+            <li>Cash value of life insurance policies</li>
+            <li>Vested interest in retirement funds or IRAs</li>
+          </ul>
+          </h4>Liabilities</h4>
+          <ul>
+            <li>Names, account numbers, balances, and current monthly payment amounts for all revolving charge cards</li>
+            <li>Names, addresses, phone numbers, and account numbers for all installment debt and approximate balances and monthly payments for such items as auto loans and mortgages</li>
+            <li>Alimony or child support payments</li>
+            <li>Names, addresses, phone numbers, and account numbers of accounts recently paid off, if used to establish credit</li>
+          </ul>
+          <p>Please note that you will be asked to pay for a credit repors and an appraisal upon signing the application.</p>
+        </section>
+        <div class="main__ad">
+          <div class="main__ad_desktop">
+            <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=13&l=ur1&category=beauty&banner=17TAWVQYE1E5W96A8W82&f=ifr&linkID=6c1c7fd37f9fbf1167874bdbaf5fb083&t=useful-info-20&tracking_id=useful-info-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          </div>
+          <div class="main__ad_mobile">
+            <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=21&l=ur1&category=beauty&banner=00AFNRTEE7XXVA2G6TG2&f=ifr&linkID=cfb93e91baa6872663586c3b4ee0040e&t=useful-info-20&tracking_id=useful-info-20" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          </div>
+        </div>
+        <section class="main">
+          <h3>Loan Processing</h3>
+          <p>Once you have given all preliminary information to your loan officer, your lender sends verification forms to your employers, banks, and current mortgage company or landlord and also orders a credit report and appraisal. You sign a release to authorize these steps. Your lender will provide you with a Good Faith Estimate and a Truth-in-Lending Disclosure (RESPA).</p>
+          <p>The Good Faith Estimate lists the costs you will incur at closing. Some of the numbers listed on the form are proration's, subject to change based on the actual date of the closing. Others are set fees that should remain the same.</p>
+          <p>The Truth-in-Lending Disclosure shows the total cost to you, over the term of the loan, for your specific financing. The calculation is based on the assumption that you own the home and make regular payments throughout the term of the loan.</p>
+          <p>The lender sends Verification of Employment (VOE) forms to all employers for the last two years. The employers complete, sign, and return the forms to the lender. The forms show the dates of employment, the amount of money you earned last year, and how much you have earned so far this year. The VOE documents bonuses and overtime you earned.</p>
+          <p>Verification of Deposit (VOD) forms go to each banking institution listed on your application. The institutions indicate the date you opened each account, average balances for the last three months, and the amount of money you have in each account on the day they complete the form. Any loans or overdraft accounts you have with the bank will also be shown.</p>
+          <p>Mortgage companies and landlords complete Verification of Mortgage (VOM) forms. These show the lender how much you owe, the amount of your monthly payment, and whether you make your payments by the due date.</p>
+          <p>Your credit report shows the amount of money you owe each of your creditors, minimum monthly payments, and your payment history. The appraisal confirms the value of the home you are purchasing for you and your lender.</p>
+          <p>Typically, several weeks pass as these reports and forms are returned to the lender. If any delays are encountered, the loan officer may contact you for assistance. The credit reporting agency may call you to verify that the information they have gathered is correct.</p>
+          <p>Once the loan processor has collected the standard documentation, you may be asked to write letters describing your assets, income or credit. Few loans are finalized without requests for additional information just before the package is submitted to the underwriter for final approval. At this point you may become frustrated with the loan process. Please remember that your lenders requests these letters to assist you In obtaining your financing. Do not hesitate to discuss your concerns with your loan officer. Perhaps he or she can provide some additional insight on what may seem to be redundant requests.</p>
+          <p>During your first meeting, you and your lender determine the timing to obtain prequalification. This allows us to write the offer even though final approval is still pending. You will discuss additional that you may need to obtain final loan approval. Several weeks after your first meeting with the lender, you should receive loan approval. If any of the documents requested have not been returned to the lender in a timely manner, approval may take longer.</p>
+          <h3>Contingencies</h3>
+          <p>Loan approvals often carry conditions of approval. The sale of a previous home or proof of funds are two examples. Discuss any concerns you may have about such conditions with your loan officer and obtain any requested documentation as soon as possible. Once all contingencies are met, the final loan can be approved.</p>
+          <p>The only thing anyone knows for certain about interest rates is that they will change. Do not rely on anyone's predictions regarding rates. Locking your rate prematurely can result in extra expense if the seller cannot close within the lock period.</p>
+          <h3>What You May Expect Following The Loan Application</h3>
+          <p>Within a few days of your loan application your lender will be able to give you a preliminary evaluation and possibly a preliminary approval based on the information which you have provided. Please understand every lender is required to do some "digging". Don't be troubled by the credit checks, confirmation of earnings, assets, etc. It is just a required part of the lending business for all applicants.</p>
+          <p>Your lender will often need additional information or clarification from you or others. Your cooperation is extremely important, as the lender cannot proceed without the additional information or documentation. If you have questions regarding your loan approval status or other details, please do not hesitate to call your loan officer and/or your Realtor.</p>
+          <p>When the lender has received verification on all required elements, it will submit your completed file for final approval.</p>
+          <p>Mortgage approval occurs after the lender's underwriters have approved your application for a mortgage typically within 30 days. You will be notified. This time frame is approximate and may vary significantly based on your particular situation. You will be required to provide a copy of your final loan approval to your Realtor as soon as you receive it.</p>
+        </section>
+        <div class="return">
+          <a class="return__link" href="index.html">Return to main page</a>
+        </div>
+      </div><!--/l-content-->
+
+      <div class="l-sidebar">
+        {% include './_includes/sidebar.nunjucks' %}
+      </div><!--/l-sidebar-->
+      <div class="clearfix"></div>
+    </div><!--/l-container-->
+  </div><!--/l-wrapper-->
+
+  <div class="l-footer">
+    {% include './_includes/footer.nunjucks' %}
+  </div><!--/l-footer-->
+</body>
+</html>

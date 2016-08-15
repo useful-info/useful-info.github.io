@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mortgage Tax</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="description" content="Mortgage Tax. How to calculate." />
+  <meta name="keywords" content="mortgage tax" />
+  <link rel="stylesheet" href="./public/styles/app.css" type="text/css" />
+  <link rel="canonical" href="useful-info.space/sites/acne/" />
+</head>
+<body>
+  <div class="l-wrapper">
+    <div class="l-header">
+      {% include './_includes/header.nunjucks' %}
+    </div><!--/l-header-->
+
+    <div class="l-container">
+      <div class="l-content">
+        <div class="return">
+          <a class="return__link" href="index.html">Return to main page</a>
+        </div>
+        <section class="main">
+          <h1>Mortgage Tax</h1>
+          <p>Learn about mortgage tax rules and regulations.</p>
+          <p>Mortgage taxes are assessed when a new mortgage is registered with a state or local jurisdiction.</p>
+          <p>A mortgage tax is a one-time registry tax due when a mortgage is registered with a state or local jurisdiction. Some states or local jurisdictions make new homeowners pay a mortgage tax in addition to deed transfer taxes and other settlement costs incurred when buying a home.</p>
+          <p>Often the mortgage tax is considered a hidden tax not mentioned by home sellers or mortgage brokers. The mortgage tax is in addition to the annual property taxes and other taxes, incurred when buying a house.</p>
+          <p>Not all states impose a mortgage tax or mortgage recording tax, but all states impose transfer and property taxes. In fact, as of 2009, only the states of Alabama, Florida, Kansas, Minnesota, New York, Oklahoma and Tennessee impose a mortgage tax. Each state has different tax percentages and thresholds for incurring the tax.</p>
+          <h3>Mortgage Tax Calculation</h3>
+          <p>As explained by the City of New York Government Web site, the mortgage tax is a percentage of the dollar amount paid for a home and decreases with the expected occupancy of the residence. Sometimes it is based on the amount of the mortgage as well as the life of the mortgage and the type of home. As of 2006, the mortgage tax rates for the individual states are as follows:</p>
+          <ul>
+            <li>Alabama: 0.15 percent of every $100.00 of the total property value</li>
+            <li>Florida: 0.35 percent of every $100.00</li>
+            <li>Kansas: 0.26 percent of every $100.00 of the mortgage amount</li>
+            <li>Minnesota: 0.23 percent of every $100.00 of the principal debt</li>
+            <li>New York: $1.00 of every $100.00 of the principal debt</li>
+            <li>Oklahoma: Dependent upon the length of the mortgage (highest amount is 0.10 percent of every $100.00 of any mortgage five years or longer)</li>
+            <li>Tennessee: 0.115 percent of every $100.00 over an initial $2,000</li>
+          </ul>
+          <p>Mortgage tax rates are subject to change and more states may impose mortgage tax in the future. First-time buyers should become familiar with local and state laws governing mortgages even if their particular state currently does not impose a mortgage tax.</p>
+        </section>
+        <div class="main__ad">
+          <div class="main__ad_desktop">
+            <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=13&l=ur1&category=beauty&banner=17TAWVQYE1E5W96A8W82&f=ifr&linkID=6c1c7fd37f9fbf1167874bdbaf5fb083&t=useful-info-20&tracking_id=useful-info-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          </div>
+          <div class="main__ad_mobile">
+            <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=21&l=ur1&category=beauty&banner=00AFNRTEE7XXVA2G6TG2&f=ifr&linkID=cfb93e91baa6872663586c3b4ee0040e&t=useful-info-20&tracking_id=useful-info-20" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          </div>
+        </div>
+        <section class="main">
+          <h3>Mortgage Tax Forms</h3>
+          <p>Depending on the state in which a house is purchased, the forms and/or instructions necessary for filing mortgage taxes differ. Some of the basics forms are:</p>
+          <ul>
+            <li>Alabama: Part of state financing statement-item 7</li>
+            <li>Florida: Form DR-228</li>
+            <li>Kansas: Provided by Deed Register</li>
+            <li>Minnesota: MRT-1 Mortgage Registry Tax</li>
+            <li>New York: MT-15 Mortgage Recording Tax Return</li>
+            <li>Oklahoma: Provided by Deed Register in given county</li>
+            <li>Tennessee: PRV 400 Reality Transfer and Mortgage Tax Return</li>
+          </ul>
+          <h3>Mortgage Tax Rates</h3>
+          <p>In some states, particularly New York, the mortgage tax imposed at the time of recording changes from county to county or jurisdiction to jurisdiction. It is important to request full disclosure of current fees from mortgage brokers or the county court house assessor's office.</p>
+          <p>Although mortgage payments, escrow fees and other taxes incurred with home ownership are deductible on the tax payer's individual income tax form, mortgage tax is not. Like transfer fees, stamp fees and broker fees mortgage taxes are a one-time home ownership expense associated with the purchase of a property.</p>
+        </section>
+        <div class="return">
+          <a class="return__link" href="index.html">Return to main page</a>
+        </div>
+      </div><!--/l-content-->
+
+      <div class="l-sidebar">
+        {% include './_includes/sidebar.nunjucks' %}
+      </div><!--/l-sidebar-->
+      <div class="clearfix"></div>
+    </div><!--/l-container-->
+  </div><!--/l-wrapper-->
+
+  <div class="l-footer">
+    {% include './_includes/footer.nunjucks' %}
+  </div><!--/l-footer-->
+</body>
+</html>

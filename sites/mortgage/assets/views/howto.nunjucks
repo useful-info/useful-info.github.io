@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>How to Mortgage a House</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="description" content="How to Mortgage a House? The information is here!" />
+  <meta name="keywords" content="to mortgage a house" />
+  <link rel="stylesheet" href="./public/styles/app.css" type="text/css" />
+  <link rel="canonical" href="useful-info.space/sites/acne/" />
+</head>
+<body>
+  <div class="l-wrapper">
+    <div class="l-header">
+      {% include './_includes/header.nunjucks' %}
+    </div><!--/l-header-->
+
+    <div class="l-container">
+      <div class="l-content">
+        <div class="return">
+          <a class="return__link" href="index.html">Return to main page</a>
+        </div>
+        <section class="main">
+          <h1>How to Mortgage a House</h1>
+          <p>You can remortgage and look for a better deal straight away. You may have to pay a redemption penalty to switch deals.</p>
+          <p>Depending on the terms you may have to repay the value of the cash-back before you are allowed to switch mortgages. You may have to pay a redemption penalty to switch deals. If you decide to change your mortgage you should compare the potential savings against any costs of switching. A mortgage adviser can assist you with this.</p>
+          <p>Although it's often possible to save money by changing your deal, keep track of all the associated costs and make sure you are getting the best value for money. Some lenders offer specific remortgage packages where they pay for your legal and valuation fees, so all you need to do is compare monthly repayment costs.</p>
+          <p>If you are staying with your existing lender, then remortgaging should be relatively straightforward. Your lender will probably contact you before your mortgage term expires to talk through your options. If not, you can get in touch with them. But don't feel like you have to stay put - there are a whole host of lenders out there who may have a more suitable mortgage for you.</p>
+          <p>If you feel a bit overwhelmed by the choice, then you may like to enlist the help of a mortgage broker. Not only will they be more adept at finding the right mortgage for you, they also have access to products that aren't available direct to consumers. All mortgage brokers are regulated by the Financial Services Authority, meaning they are bound by a code to treat customers fairly. They have to find the deal that is right for each borrower and cannot just recommend products that may be lucrative for them. Bear in mind that they may charge for their services, which could be a factor in whether you choose to go it alone or not.</p>
+        </section>
+        <div class="main__ad">
+          <div class="main__ad_desktop">
+            <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=13&l=ur1&category=beauty&banner=17TAWVQYE1E5W96A8W82&f=ifr&linkID=6c1c7fd37f9fbf1167874bdbaf5fb083&t=useful-info-20&tracking_id=useful-info-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          </div>
+          <div class="main__ad_mobile">
+            <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=21&l=ur1&category=beauty&banner=00AFNRTEE7XXVA2G6TG2&f=ifr&linkID=cfb93e91baa6872663586c3b4ee0040e&t=useful-info-20&tracking_id=useful-info-20" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          </div>
+        </div>
+        <section class="main">
+          <p>A remortgage is changing your mortgage without moving your home. Remortgaging is the process of switching your mortgage to another lender that is offering a better deal than your current lender thereby saving money. A remortgage can also be used to raise additional finances by releasing equity in your property.</p>
+          <p>When you remortgage you are ending your old mortgage deal and switching to a new one. This normally involves switching your lender although you can sometimes change deals with your current provider. If you do remortgage with your current lender it normally involves changing your existing deal.</p>
+          <p>Remortgaging can allow you to get a better rate of interest and reduce your monthly mortgage payments. A remortgage allows you to consolidate existing loans to one manageable monthly payment or raise money to buy a new car or home improvements.</p>
+          <p>Homeowners who want to raise money for home improvements, buying a car or other purposes often find that a remortgage to raise the money is cheaper than taking out a personal loan or using credit cards. This is because interest rates on mortgages are amongst the lowest of all the different types of loans. Homeowners may wish to raise money to consolidate other debts. By taking advantage of remortgaging your property you could transfer several debts into one more easily manageable remortgage.</p>
+        </section>
+        <div class="return">
+          <a class="return__link" href="index.html">Return to main page</a>
+        </div>
+      </div><!--/l-content-->
+
+      <div class="l-sidebar">
+        {% include './_includes/sidebar.nunjucks' %}
+      </div><!--/l-sidebar-->
+      <div class="clearfix"></div>
+    </div><!--/l-container-->
+  </div><!--/l-wrapper-->
+
+  <div class="l-footer">
+    {% include './_includes/footer.nunjucks' %}
+  </div><!--/l-footer-->
+</body>
+</html>
