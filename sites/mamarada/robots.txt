@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://mamarada.club/sitemap.xml

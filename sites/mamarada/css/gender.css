@@ -1,0 +1,100 @@
+/*
+Шрифт в эмблеме - Underdog
+Цвет акцента - #6A1B9A
+*/
+
+.gender-select {
+    display: inline-block;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0 2%;
+}
+
+select {
+    border: 1px solid #6A1B9A;
+    border-radius: 2px;
+    font-size: 0.85em;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+form {
+    width: 80%;
+    text-align: center;
+    background-color: #f0f0f0;
+    border: 1px solid #6A1B9A;
+    border-radius: 5px;
+    margin: 1% auto 0;
+    padding: 3% 0;
+    transition: all 300ms ease-out;
+}
+
+button {
+    display: block;
+    position: relative;
+    margin: 3% auto 0;
+    width: 25%;
+    min-width: 250px;
+    height: 10%;
+    background-color: #FFFFFF;
+    color: #6A1B9A;
+    outline: none;
+    border: 1px solid #6A1B9A;
+    font-size: 2.5em;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 1px 5px -1px #000000;
+    transition: all 200ms ease-out;
+}
+
+button:hover {
+    box-shadow: 0 1px 10px -2px #000000;
+    background-color: #6A1B9A;
+    color: #FFFFFF;
+}
+
+.gender-result {
+    text-align: center;
+    margin-top: 2%;
+    display: none;
+}
+
+.gender-result.months {
+    width: 75%;
+	min-width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.gender-result p {
+    font-size: 2em;
+}
+
+.gender-result p span {
+	font-weight: 800;
+	color: #6A1B9A;
+}
+
+.gender-result p + p {
+    margin-top: 1.5%;
+}
+
+@media screen and (max-width: 657px) {
+	form {
+		width: 94%;
+	}
+	
+	button {
+		font-size: 1.5em;
+	}
+	.gender-select {
+		display: inline-block;
+		text-align: center;
+		font-size: 1em;
+		margin: 0 2%;
+	}
+	
+	.gender-result p {
+		font-size: 1.2em;
+	}
+}
