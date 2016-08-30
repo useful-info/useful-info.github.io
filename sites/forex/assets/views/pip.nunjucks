@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pip Forex</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="description" content="What is a Pip in Forex? You have to know! Get in!" />
+  <meta name="keywords" content="pip forex" />
+  <link rel="stylesheet" href="./public/styles/app.css" type="text/css" />
+</head>
+<body>
+  <div class="l-wrapper">
+    <div class="l-header">
+      {% include './_includes/header.nunjucks' %}
+    </div><!--/l-header-->
+
+    <div class="l-container">
+      <div class="l-content">
+        <div class="return">
+          <a class="return__link" href="index.html">Return to main page</a>
+        </div>
+        <section class="main">
+          <h1>Pip Forex</h1>
+          <p>Here is where we’re going to do a little math. You’ve probably heard of the terms “pips,” “pipettes,” and “lots” thrown around, and here we’re going to explain what they are and show you how their values are calculated.</p>
+          <p>Take your time with this information, as it is required knowledge for all forex traders. Don’t even think about trading until you are comfortable with pip values and calculating profit and loss.</p>
+          <h3>What the heck is a Pip? What about a Pipette?</h3>
+          <p>The unit of measurement to express the change in value between two currencies is called a “pip.” If EUR/USD moves from 1.2250 to 1.2251, that .0001 USD rise in value is ONE PIP. A pip is usually the last decimal place of a quotation. Most pairs go out to 4 decimal places, but there are some exceptions like Japanese Yen pairs (they go out to two decimal places).</p>
+          <p><strong>Very Important:</strong> There are brokers that quote currency pairs beyond the standard “4 and 2” decimal places to “5 and 3” decimal places. They are quoting <strong>FRACTIONAL PIPS</strong>, also called “pipettes.” For instance, if GBP/USD moves from 1.51542 to 1.51543, that .00001 USD move higher is <strong>ONE PIPETTE</strong>.</p>
+        </section>
+        <div class="main__ad">
+          <div class="main__ad_desktop">
+            <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=26&l=ur1&category=computers_accesories&banner=1SKRXV416ZYVKCEGXQR2&f=ifr&linkID=38a2736cd2334e0faa0f25399d720073&t=moneymaker023-20&tracking_id=moneymaker023-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          </div>
+          <div class="main__ad_mobile">
+            <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=42&l=ur1&category=computers_accesories&banner=1C3NG33983RAB88YV182&f=ifr&linkID=d771cb37bb429f4d19ec675e619c5723&t=moneymaker023-20&tracking_id=moneymaker023-20" width="234" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+          </div>
+        </div>
+        <section class="main">
+          <h3>Finding the Pip Value in your Account Denomination</h3>
+          <p>Now, the final question to ask when figuring out the pip value of your position is, “what is the pip value in terms of my account currency?” After all, it is a global market and not everyone has their account denominated in the same currency. This means that the pip value will have to be translated to whatever currency our account may be traded in.</p>
+          <p>This calculation is probably the easiest of all; simply multiply/divide the “found pip value” by the exchange rate of your account currency and the currency in question.</p>
+          <p>Even though you’re now a math genius–at least with pip values–you’re probably rolling your eyes back and thinking, “Do I really need to work all this out?” Well, the answer is a big fat NO. Nearly all forex brokers will work all this out for you automatically, but it’s always good for you to know how they work it out.</p>
+          <p>If your broker doesn’t happen to do this, don’t worry – you can use our Pip Forex Calculator!</p>
+        </section>
+        <div class="return">
+          <a class="return__link" href="index.html">Return to main page</a>
+        </div>
+      </div><!--/l-content-->
+
+      <div class="l-sidebar">
+        {% include './_includes/sidebar.nunjucks' %}
+      </div><!--/l-sidebar-->
+      <div class="clearfix"></div>
+    </div><!--/l-container-->
+  </div><!--/l-wrapper-->
+
+  <div class="l-footer">
+    {% include './_includes/footer.nunjucks' %}
+  </div><!--/l-footer-->
+</body>
+</html>

@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: assets/
+Sitemap: http://useful-info.space/sites/forex/sitemap.xml

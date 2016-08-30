@@ -1,16 +1,15 @@
-<header class="header">
-  <div class="head">
-    <img class="head__pic" alt="What is Home Mortgage" src="./public/images/main.png" />
-  </div>
-  <div class="header__ad">
+<footer class="footer">
+  <div class="footer__ad">
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <ins class="adsbygoogle"
          style="position:relative;display:block;max-width:1040px;width:100%;max-height:90px;margin:0 auto;text-align:center;overflow:hidden;"
          data-ad-client="ca-pub-8522780238512878"
-         data-ad-slot="9552897149"
+         data-ad-slot="4606163543"
          data-ad-format="auto"></ins>
     <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
+    (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
   </div>
-</header>
+
+  <p class="footer__text">&#169; useful-info.space 2016</p>
+</footer>
