@@ -456,10 +456,10 @@ http://www.msftncsi.com/ncsi.txt 1 -
 http://testp4.pospr.waw.pl/testproxy.php 8 -
 /useful/how-boy-gir 1 -
 /.rss 1 -
-/android-icon-192x192.png 1 http://useful-info/sites/mamarada/
+/android-icon-192x192.png 1 http://useful-info.space/sites/mamarada/
 http://testp1.piwo.pila.pl/testproxy.php 3 -
 /useful/how-boy- 1 -
-/images/child01-1.png 2 http://useful-info/sites/mamarada/
+/images/child01-1.png 2 http://useful-info.space/sites/mamarada/
 /images/newsletter-2-1.jpg 1 -
 /css/font-awesome.min.css 5 -
 /cgi-bin/authLogin.cgi 1 -
@@ -473,7 +473,7 @@ http://testp3.pospr.waw.pl/testproxy.php 5 -
 /wp-admin/theme-install.php 2 http://yandex.ru/clck/jsredir
 /wp-includes/wlwmanifest.xml 4 http://yandex.ru/clck/jsredir
 /SQLiteManager-1.2.4/main.php 1 http://5.63.156.66/
-/images/week19-1.png 2 http://useful-info/sites/mamarada/
+/images/week19-1.png 2 http://useful-info.space/sites/mamarada/
 http://123.59.86.152/printHeader/proxy_detect.php 1 -
 /+CSCOE+/logon.html 1 -
 /dana-na/auth/url_default/welcome.cgi 1 -
@@ -482,7 +482,7 @@ http://123.59.86.152/printHeader/proxy_detect.php 1 -
 /images/issue-no.jpg 220 -
 /CHANGELOG.txt 17 http://5.63.156.66:80/CHANGELOG.txt
 /apple-touch-icon-precomposed.png 8 -
-/images/child02-1.png 2 http://useful-info/sites/mamarada/
+/images/child02-1.png 2 http://useful-info.space/sites/mamarada/
 /article-2.html 8 -
 /readme.html 19 http://5.63.156.66:80/readme.html
 /... 1 -
@@ -498,7 +498,7 @@ http://mp.weixin.qq.com/s 1 -
 /index.php 1 -
 /sqlite/main.php 1 http://5.63.156.66/
 /wp-articl 1 -
-/android-icon-72x72.png 1 http://useful-info/sites/mamarada/
+/android-icon-72x72.png 1 http://useful-info.space/sites/mamarada/
 /images/img1.jpg 1 -
 /joomla.xml 1 http://5.63.156.66:80/joomla.xml
 END_SIDER_404

