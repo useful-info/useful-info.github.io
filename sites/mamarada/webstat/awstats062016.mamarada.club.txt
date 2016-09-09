@@ -496,7 +496,7 @@ http://www.virusbook.cn/proxyverifytest/5.63.156.66/8080 1 -
 /phpMyAdmin-2.8.0/ 2 http://5.63.156.66/
 http://www.baidu.com/cache/global/img/gs.gif 3 -
 /wznaipmzvzzm.html 1 -
-/images/dorisuy_17.jpg 3 https://mamarada.club/useful/dorisuy_raskras.html
+/images/dorisuy_17.jpg 3 http://useful-info/sites/mamarada/useful/dorisuy_raskras.html
 /d268d831-6083-4608-8230-a6b4d788fbed 1 -
 /phpMyAdmin-2.7.0-pl1/ 2 http://5.63.156.66/
 /phpMyAdmin-2.6.2-pl1/ 2 http://5.63.156.66/
@@ -616,7 +616,7 @@ http://a2.50na50.net/myiphb.php 1 -
 /phpMyAdmin-2.5.7-pl1/ 2 http://5.63.156.66/
 http://static.90.170.46.78.clients.your-server.de/myiphc.php 1 -
 http://78.46.170.90/myiphb.php 6 -
-/assets/plugins/jquery-file-upload/index.html 1 https://mamarada.club/assets/plugins/jquery-file-upload/index.html
+/assets/plugins/jquery-file-upload/index.html 1 http://useful-info/sites/mamarada/assets/plugins/jquery-file-upload/index.html
 /js/admin/systemsetting/reboot_reset.js 1 -
 /phpMyAdmin-2.6.1-rc2/ 2 http://5.63.156.66/
 http://testp1.piwo.pila.pl/testproxy.php 10 -

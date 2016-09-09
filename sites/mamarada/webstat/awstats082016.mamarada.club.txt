@@ -469,7 +469,7 @@ http://testp3.pospr.waw.pl/testproxy.php 6 -
 /webfig/ 2 -
 /phpMyAdmin-2.6.0/ 1 http://5.63.156.66/
 /SQLite/SQLiteManager-1.2.4/main.php 3 -
-/license.php 2 https://mamarada.club/license.php
+/license.php 2 http://useful-info/sites/mamarada/license.php
 http://www.teddybrinkofski.com/ip_json.php 1 -
 /phpMyAdmin-2.6.4/ 1 http://5.63.156.66/
 /mySqlDumper 3 -
@@ -481,11 +481,11 @@ http://www.teddybrinkofski.com/ip_json.php 1 -
 /article-1.html 1 -
 /phpMyAdmin-2.6.0-pl1/ 1 http://5.63.156.66/
 /php-myadmin/ 1 http://5.63.156.66/
-/configuration.php~ 1 https://mamarada.club/configuration.php~
+/configuration.php~ 1 http://useful-info/sites/mamarada/configuration.php~
 /phpMyAdmin-2.5.5-rc1/ 1 http://5.63.156.66/
 /readme.html 1 http://5.63.156.66/readme.html
 /phpMyAdmin-2.8.1-rc1/ 1 http://5.63.156.66/
-/awstatsicons/other/awstats_logo6.png 1 https://mamarada.club/webstat/index.html
+/awstatsicons/other/awstats_logo6.png 1 http://useful-info/sites/mamarada/webstat/index.html
 /phpmyadmin 5 http://5.63.156.66/phpmyadmin
 /phpMyAdmin-2.8.0-beta1/ 1 http://5.63.156.66/
 /phpMyAdmin-2.6.1-rc1/ 1 http://5.63.156.66/
@@ -543,7 +543,7 @@ http://www.google.com/reader/about/ 16 -
 /webdb/ 1 http://5.63.156.66/
 /phpMyAdmin-2.8.0.4/ 1 http://5.63.156.66/
 /hudson/login 3 -
-/modules/productpageadverts/uploadimage.php 1 https://mamarada.club/modules/productpageadverts/uploadimage.php
+/modules/productpageadverts/uploadimage.php 1 http://useful-info/sites/mamarada/modules/productpageadverts/uploadimage.php
 http://180.163.113.82/check_proxy 1 -
 /phpMyAdmin-2.5.1/ 1 http://5.63.156.66/
 /phpMyAdmin-2.6.4-rc1/ 1 http://5.63.156.66/

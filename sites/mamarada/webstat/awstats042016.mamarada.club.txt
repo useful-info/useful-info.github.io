@@ -759,7 +759,7 @@ http://www.zydesigns.com/proxy/php-proxy-judge.php 1 -
 http://testp1.piwo.pila.pl/testproxy.php 5 -
 /phpMyAdmin-2.6.1-rc2/ 1 http://5.63.156.66/
 /phpMyAdmin-2/ 1 http://5.63.156.66/
-/https://mamarada.club/ 1 -
+/http://useful-info/sites/mamarada/ 1 -
 /admin/ 1 http://5.63.156.66/
 /etc/lib/pChart2/examples/index.php 1 -
 /php-my-admin/ 1 http://5.63.156.66/
@@ -772,7 +772,7 @@ http://www.google.com/reader/about/ 8 -
 /phpMyAdmin-2.6.0-pl3/ 1 http://5.63.156.66/
 /SQLiteManager-1.2.4/main.php 1 http://5.63.156.66/
 /phpMyAdmin-2.2.6/ 1 http://5.63.156.66/
-/mychild/www.youtube.com/watch 4 https://mamarada.club/mychild/child-08.html
+/mychild/www.youtube.com/watch 4 http://useful-info/sites/mamarada/mychild/child-08.html
 /phpMyAdmin-2.7.0-rc1/ 1 http://5.63.156.66/
 /phpMyAdmin-2.5.1/ 1 http://5.63.156.66/
 /phpMyAdmin-2.6.4-rc1/ 1 http://5.63.156.66/

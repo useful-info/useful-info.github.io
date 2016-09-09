@@ -637,7 +637,7 @@ http://testp4.pospr.waw.pl/testproxy.php 11 -
 /HNAP1/ 20 -
 /.well-known/dnt-policy.txt 1 -
 http://static.90.170.46.78.clients.your-server.de/myiphc.php 5 -
-/images/week22-1.jpg 2 https://mamarada.club/
+/images/week22-1.jpg 2 http://useful-info/sites/mamarada/
 http://testp1.piwo.pila.pl/testproxy.php 11 -
 http://w3.hideme.ru/checker/testpage.php 1 http://hideme.ru/
 /a2billing/admin/Public/modules/ 2 -
@@ -664,14 +664,14 @@ http://www.advalleys.com/azenvaa.php 1 -
 /files/phones.json&callback=angular.callbacks._0 7 http://s.codepen.io/boomerang/f58d2dae0efaefb1ee91a4c0833565f01462440548477/index.html
 http://123.59.86.152/printHeader/proxy_detect.php 1 -
 /SQLite/SQLiteManager-1.2.4/main.php 3 -
-/license.php 1 https://mamarada.club/license.php
+/license.php 1 http://useful-info/sites/mamarada/license.php
 /hudson/login 3 -
 /mySqlDumper 3 -
 /sqlitemanager/main.php 4 -
 http://b2.50na50.net/myiphc.php 1 -
 /images/issue-no.jpg 5 -
 /phpMyAdmin 9 -
-/mychild/doman-video.html 1 https://mamarada.club/useful.html
+/mychild/doman-video.html 1 http://useful-info/sites/mamarada/useful.html
 http://50na50.net/myipha.php 4 -
 http://c0.50na50.net/myiphc.php 2 -
 /mysqldumper 3 -
